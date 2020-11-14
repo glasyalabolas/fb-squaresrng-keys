@@ -1,7 +1,7 @@
 #ifndef __SQUARES_RNG_KEYS__
 #define __SQUARES_RNG_KEYS__
 
-static shared as ulongint __SQRNG_KEY__( ... ) = { _ 
+static shared as const ulongint __SQRNG_KEY__( ... ) = { _ 
   &hc58efd154ce32f6d, &hfcbd65e54bf53ed9, &hea3742c76bf95d47, &hfb9e125878fa6cb3, _
   &h1ebd294ba7fe8b31, &hf29ba87dc5f1a98d, &h815a7e4ed4e3b7f9, &h63acbfe213f5d867, _
   &h67e2d1b542f9e6d3, &h682ec13872ecf651, &h912f87476ecf14ad, &h3cd7581a9de3542b, _
